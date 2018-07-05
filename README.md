@@ -3,13 +3,17 @@
 > A Vue.js numeric keyboard
 
 ## use
-
+```
 yarn add vue2-num-keyboard
 or
 npm install vue2-num-keyboard -save
+```
 
+```main.js```
+```
 import numKeyboard from 'vue2-num-keyboard'
 Vue.use(numKeyboard)
+```
 
 ```
 <template>
@@ -40,7 +44,11 @@ Vue.use(numKeyboard)
 </script>
 ```
 ## api
-
+|id|name|
+|:-|:-|
+|1|A1|
+|2|A2|
+|3|A3|
 num-keyboard
 | 参数 | 说明 | 默认值 |
 | - | :-: | -: |
