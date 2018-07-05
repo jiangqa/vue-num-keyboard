@@ -44,12 +44,8 @@ Vue.use(numKeyboard)
 </script>
 ```
 ## api
-|id|name|
-|:-|:-|
-|1|A1|
-|2|A2|
-|3|A3|
-num-keyboard
+
+
 | 参数 | 说明 | 默认值 |
 | - | :-: | -: |
 | :point | 是否显示小数点，默认显示| true |
