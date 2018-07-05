@@ -46,8 +46,9 @@ Vue.use(numKeyboard)
 ## api
 
 
-| 参数 | 说明 | 默认值 |
+
 | - | :-: | -: |
+| 参数 | 说明 | 默认值 |
 | :point | 是否显示小数点，默认显示| true |
 | :decimalDigits  | 是否开启小数位数限制，默认两位小数| true |
 | @confirm | 确认按钮回调 ，可选| -- |
