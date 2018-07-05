@@ -1,7 +1,8 @@
 # vue2-num-keyboard
 
 > A Vue.js numeric keyboard
-
+## 样式
+![样式](/keyboard.jpg)
 ## use
 ```
 yarn add vue2-num-keyboard
