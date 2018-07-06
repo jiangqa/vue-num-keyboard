@@ -3,19 +3,20 @@
 > A Vue.js numeric keyboard
 ## 样式
 <img src="/keyboard.png" width="375"/>
+
 ## use
+
 ```
-yarn add vue2-num-keyboard
-or
 npm install vue2-num-keyboard -save
 ```
 
-```main.js```
+## main.js
 ```
 import numKeyboard from 'vue2-num-keyboard'
 Vue.use(numKeyboard)
 ```
 
+## 例子
 ```
 <template>
   <div id="app">
