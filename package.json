@@ -1,7 +1,7 @@
 {
   "name": "vue2-num-keyboard",
   "description": "A numeric keyboard for vue.js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "jiangqa <jiangqiuan@163.com>",
   "license": "MIT",
   "private": false,

@@ -1,8 +1,13 @@
 var path = require('path')
 var webpack = require('webpack')
-
+let ent
+if (process.env.NODE_ENV === 'production') {
+  ent = './src/lib/index.js'
+}else {
+  ent = './src/main.js'
+}
 module.exports = {
-  entry: './src/main.js',
+  entry: ent,
   // entry: './src/lib/index.js',
   output: {
     path: path.resolve(__dirname, './dist'),
