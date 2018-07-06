@@ -2,7 +2,7 @@
 
 > A Vue.js numeric keyboard
 ## 样式
-![样式](/keyboard.png=~/w/375)
+![样式](/keyboard.png)
 ## use
 ```
 yarn add vue2-num-keyboard
