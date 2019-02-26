@@ -19,7 +19,7 @@
         this.num = v
       },
       confirm(v){
-        console.log(v,1)
+        console.log(v)
       }
     }
   }
